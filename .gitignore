@@ -39,6 +39,3 @@ temp/
 # Arquivos de debug
 .debug/
 debug.log
-
-# Arquivos específicos do projeto
-products.json 
