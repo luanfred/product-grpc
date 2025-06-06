@@ -46,8 +46,6 @@ O sistema oferece as seguintes operações:
 - Listar produtos
 - Buscar produto por ID
 - Criar novo produto
-- Atualizar produto existente
-- Remover produto
 
 ## Dependências Principais
 
