@@ -1,21 +1,21 @@
 {
     "products": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Smartphone XYZ",
             "description": "Smartphone de última geração",
             "price": 1999.99,
             "stock": 50
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Notebook ABC",
             "description": "Notebook para trabalho e jogos",
             "price": 4999.99,
             "stock": 30
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Smart TV 4K",
             "description": "Smart TV com resolução 4K",
             "price": 2999.99,
